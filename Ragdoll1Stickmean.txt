@@ -1,8 +1,8 @@
 //appKey IronSource
-AppKeyBegin##{}##LastAppKey
-moregameBegin##{}##Lastmoregame
-SheireBegin##{}##Sheiregame
-UrlRateUsBegin##{}##LastUrlRateUs
+AppKeyBegin##{1673901a5}##LastAppKey
+moregameBegin##{https://play.google.com/store/apps/developer?id=alex+touron}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudio.RagdollWarriorshttps://play.google.com/store/apps/details?id=com.WarriorsStudio.RagdollWarriors}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudio.RagdollWarriors}##LastUrlRateUs
 
 UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
