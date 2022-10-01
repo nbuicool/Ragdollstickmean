@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{1673a945d}##LastAppKey
+AppKeyBegin##{16b0befc5}##LastAppKey
 moregameBegin##{https://play.google.com/store/apps/developer?id=alex+touron}##Lastmoregame
 SheireBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##Sheiregame
 UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##LastUrlRateUs
