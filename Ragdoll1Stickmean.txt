@@ -1,13 +1,13 @@
 //appKey IronSource
 AppKeyBegin##{16b0b7cb5}##LastAppKey
-moregameBegin##{}##Lastmoregame
-SheireBegin##{}##Sheiregame
-UrlRateUsBegin##[}##LastUrlRateUs
+moregameBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameSRagdoll.RagdollWarriorRagdoll}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameSRagdoll.RagdollWarriorRagdoll}##Sheiregame
+UrlRateUsBegin##[https://play.google.com/store/apps/details?id=com.RagdollGameSRagdoll.RagdollWarriorRagdoll}##LastUrlRateUs
 
-UrlFeedBackBegin##{", "}##LastUrlFeedBack
-UrlSuspendBegin##{", "}##LastUrlSuspend
+UrlFeedBackBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameSRagdoll.RagdollWarriorRagdoll}##LastUrlFeedBack
+UrlSuspendBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameSRagdoll.RagdollWarriorRagdoll}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend;
+IsIsuspendBegin##{true}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
  
 1673901a5
